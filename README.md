@@ -23,6 +23,7 @@ Diseña una web que permita dar de alta a vendedores, introducir sus ventas e in
 sería su sueldo final.
 7. Escribe las funciones para llevar a cabo las siguientes operaciones para un array de una
 dimensión:
+
 a) Establecer los 10 elementos del array a cero.
 
 b) Añadir 1 a cada uno de los elementos del array.
@@ -47,9 +48,13 @@ nueva ventana). Deben utilizarse arrays para solucionar el problema.
 tiene cuatro vendedores (1 a 4) que venden cinco productos diferentes (1 a 5). Una vez al
 día, cada vendedor pasa en un estadillo con las ventas realizadas por producto. Cada hoja
 contiene
+
 a) el número de vendedor,
+
 b) el número de producto, y
+
 c) el valor total de los productos vendidos ese día.
+
 Así, cada vendedor pasa entre cero y cinco hojas de ventas por día. Supón que disponemos
 dee la información de todos los estadillos del último mes. Escribir un script que lee toda esta
 información de las ventas del mes pasado y resumir el total de ventas por vendedor por
